@@ -23,3 +23,9 @@
 > [Week 4](https://github.com/changwoomon/Boostcamp-AI-Tech/tree/main/Week%204) (NLP)
 
 > [Week 5](https://github.com/changwoomon/Boostcamp-AI-Tech) (Graph)
+
+> [Week 6](https://github.com/changwoomon/Boostcamp-AI-Tech) (특강)
+
+> [Week 7](https://github.com/changwoomon/Boostcamp-AI-Tech) (CV)
+
+> [Week 8](https://github.com/changwoomon/Boostcamp-AI-Tech) (모델경량화)
